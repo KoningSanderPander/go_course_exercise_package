@@ -1,7 +1,7 @@
 package arithmetic
 
 // check if a number is prime
-func isPrime(n int) bool {
+func IsPrime(n int) bool {
 	if n <= 1 {
 		return false
 	}
